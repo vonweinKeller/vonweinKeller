@@ -6,4 +6,4 @@ caiankardoso@gmail.com
 
 My Resume [here](https://drive.google.com/file/d/1FBM8QHhXNTWnJqM1i8ZnBBKRd7k51l5J/view?usp=sharing) if you want to.
 
-#### English C1 🇬🇧 | Portuguese C2 🇵🇹 | learning Deutsch 🇩🇪 (pretty bad yet, sorry Großvater)
+#### English C1 🇬🇧 | Portuguese C2 🇵🇹 | learning Deutsch 🇩🇪 (it's pretty bad yet, sorry Großvater)
