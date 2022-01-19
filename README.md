@@ -5,4 +5,4 @@ If you want to get in touch, you can use my e-mail
 caiankardoso@gmail.com
 
 
-#### English C1 🇬🇧 | Portuguese C2 🇵🇹 | learning Deutsch 🇩🇪 (it's bad yet)
+#### English 🇬🇧 | Portuguese 🇵🇹 | learning Deutsch 🇩🇪 (it's bad yet) | interest in Norwegian 🇳🇴 and Italian 🇮🇹 (send me cool content :D)
