@@ -1,7 +1,5 @@
 ## Hi, I'm Caian Keller 🙋‍♂️
 
-___Programming is an art form.___
+##### Programming is an art form. Make it personal.
 
-🫁 cigarettes brands for beginners
-
-##### My favorite colour is ![#ED958B](https://placehold.co/15x15/ED958B/ED958B.png) ___#ED958B___
+###### My favorite colour is ![#ED958B](https://placehold.co/15x15/ED958B/ED958B.png) ___#ED958B___ and I absolutely love IBM Plex Mono
