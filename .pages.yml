@@ -1,0 +1,7 @@
+view:
+  fields: [ title, date, published ] # title is the first entry and thus will be set to primary
+  sort: [ date, title, published ]
+  default:
+    search: 'author:Patricia'
+    sort: date
+    sort: desc
